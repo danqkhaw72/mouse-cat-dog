@@ -1,5 +1,4 @@
-function Horse() {
-	
+function Horse() {	
 }
 
 module.exports = Horse;
